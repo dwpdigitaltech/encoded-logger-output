@@ -61,7 +61,7 @@
     <mvn-javadoc.version>3.2.0</mvn-javadoc.version>
     <log4j-core.version>2.13.3</log4j-core.version>
     <mvn-source.version>3.0.1</mvn-source.version>
-    <jackson.version>2.10.0</jackson.version>
+    <jackson.version>2.10.5.1</jackson.version>
     <logback.version>1.2.3</logback.version>
     <mvn-gpg.version>1.6</mvn-gpg.version>
     <jacoco.version>0.8.5</jacoco.version>
